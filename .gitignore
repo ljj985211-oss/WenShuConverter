@@ -1,0 +1,24 @@
+# Local build output and runtime (large binaries)
+/build/
+/dist/
+/engine/
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+wenshu-*
+_test/
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
